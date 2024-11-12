@@ -9,7 +9,7 @@ sintaks untuk bagian button penambahan mahasiswa:
 
 CRUD
 Read/view
-![image](https://github.com/user-attachments/assets/44566f24-03d6-4746-9273-81da8f07c83d)
+![image](https://github.com/user-attachments/assets/778ed741-81f5-481c-8470-7cc8faee6640)
 sintaks untuk menampilkan data, setelah dilakukan input
 ![image](https://github.com/user-attachments/assets/b494c195-f2c2-40dc-8679-2292551bcf18)
 logika pengambilan data mahasiswa
